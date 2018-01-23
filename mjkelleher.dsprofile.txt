@@ -1,0 +1,17 @@
+Rate yourself from 1 to 5 (1 being “no skill” and 5 being “expert”) on the seven different skills required for a data scientist. If there are skills that you think are missing, add those to your list and rate yourself on those as well. Each skill is to be rated independently.
+
+Rating  Subject
+------  -------
+  5     Computer programming
+  3     Math
+  2     Statistics
+  2     Machine learning
+        Domain expertise (and give the domain(s))
+  5        Software Engineering
+  3        Databases
+  4        Unix Tools
+  2     Communication and presentation skills
+  1     Data visualization
+
+Which skill do you expect to improve upon most in this course? Which skill do you expect to improve upon most in this program?
+  I expect to improve the most in communication and presentation.
